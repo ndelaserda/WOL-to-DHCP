@@ -31,7 +31,7 @@ for x in range(100,125):
     ip_address.append('10.85.64.'+str(x))
 
 # Open up batch.txt with the overwrite switch
-batch_file = open('batch.txt','w+')
+batch_file = open('batch.csv','w+')
 
 # Write the initial columns headers required by DHCP Powershell
 batch_file.write('ScopeId,IPAddress,Name,ClientId,Description')
@@ -44,5 +44,5 @@ print('Writing to text file...')
 counter = 0
 for x in range(len(ip_address)):
     if x != len(ip_address)-1:
-        batch_file.write('\n'+ip_scope+','+ip_address[x]+','+computer_list[counter]+','+computer_list[counter+1])
+        batch_file.write('\n'+ip_scope+','+ip_address[x]+','+computer_list[counter]+','+computer_list[counter+1]+',')
     counter += 2
