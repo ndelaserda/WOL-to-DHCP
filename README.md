@@ -7,5 +7,5 @@
 # Process
 I'm going to start out by creating a Jupyter notebook to get the kinks worked out, and then once I get the hang of things, I'll throw it into a .py
 
-#Update 12-10-19
+# Update 12-10-19
 Final .py has been created. I will come back to this and make it modular so that the script will grab whatever is in between the tags <Name> and <MAC> rather then relying on index position which would change depending on <Name> length
