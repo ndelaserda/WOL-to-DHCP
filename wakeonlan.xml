@@ -14,8 +14,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -35,8 +35,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -56,8 +56,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -77,8 +77,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -98,8 +98,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -119,8 +119,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -140,8 +140,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -161,8 +161,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -182,8 +182,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -203,8 +203,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -224,8 +224,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -245,8 +245,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -266,8 +266,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -287,8 +287,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -308,8 +308,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -329,8 +329,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -350,8 +350,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -371,8 +371,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -392,8 +392,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -413,8 +413,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -434,8 +434,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -455,8 +455,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -476,8 +476,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -497,8 +497,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
@@ -518,8 +518,8 @@
     <TTL>128</TTL>
     <RemoteCommand />
     <Note />
-    <UserID>administrator</UserID>
-    <Password>Is6w1xj+UrH6LZwm0bxPGg==</Password>
+    <UserID>test</UserID>
+    <Password>hash</Password>
     <Domain>abc</Domain>
     <ShutdownMethod>WMI</ShutdownMethod>
     <KeepAlive>false</KeepAlive>
