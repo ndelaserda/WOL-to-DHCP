@@ -5,6 +5,28 @@
 
 computer_list = []
 
+def extract_name(line):
+    '''
+        Checks to see where the positioning of the open and closing tag is, then extracts the text needed in between
+
+        Specific to the Name tag
+    '''
+    tag_start = line.find('<Name>')
+    tag_end = line.find('</Name>')
+    name_sub = line[(tag_start + len('<Name>')):tag_end]
+    return name_sub
+
+def extract_mac(line):
+    '''
+        Checks to see where the positioning of the open and closing tag is, then extracts the text needed in between.
+
+        Specific to the MAC tag
+    '''
+    tag_start = line.find('<MAC>')
+    tag_end = line.find('</MAC>')
+    name_sub = line[(tag_start + len('<MAC>')):tag_end]
+    return name_sub
+
 # Script will go through the .xml provided and look for 'Name' and 'MAC'. These are tags used in the xml file
 # exported from Wake On Lan. Since it reads in order from line to line, the MAC address will always be linked to the Name tags
 # above it
@@ -13,12 +35,10 @@ for line in open('wakeonlan.xml'):
     name = ''
     mac = ''
     if 'Name' in line:
-        name += line[10:]
-        name = name[:-8]
+        name = extract_name(line)
         computer_list.append(name)
     elif 'MAC' in line:
-        mac += line[9:]
-        mac = mac[:-7]
+        mac = extract_mac(line)
         computer_list.append(mac)
 
 # Added in the scope of the DHCP scope these will be put into and crated an empty ip list
