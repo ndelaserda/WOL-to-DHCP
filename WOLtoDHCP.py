@@ -62,9 +62,8 @@ batch_file.write('ScopeId,IPAddress,Name,ClientId,Description')
 # PC name in every other index followed by the mac addresss.
 # The x variable in the for loop cycles through the list of avaiable IP addresses, so this was the easiest solution for me.
 counter = 0
-for x in range(len(ip_address)):
-    if x != len(ip_address)-1:
-        batch_file.write('\n'+ip_scope+','+ip_address[x]+','+computer_list[counter]+','+computer_list[counter+1]+',')
+for ip in ip_address:
+    batch_file.write('\n'+ip_scope+','+ip+','+computer_list[counter]+','+computer_list[counter+1]+',')
     counter += 2
 
 print('Success!')
