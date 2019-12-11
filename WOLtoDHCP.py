@@ -24,8 +24,8 @@ def extract_mac(line):
     '''
     tag_start = line.find('<MAC>')
     tag_end = line.find('</MAC>')
-    name_sub = line[(tag_start + len('<MAC>')):tag_end]
-    return name_sub
+    mac_sub = line[(tag_start + len('<MAC>')):tag_end]
+    return mac_sub
 
 # Script will go through the .xml provided and look for 'Name' and 'MAC'. These are tags used in the xml file
 # exported from Wake On Lan. Since it reads in order from line to line, the MAC address will always be linked to the Name tags
@@ -48,14 +48,14 @@ ip_address = []
 # Fill list with IPs I will be using for my reservations
 print('Creating IP\'s')
 for x in range(100,125):
-    ip_address.append('10.85.64.'+str(x))
+    ip_address.append('10.85.65.'+str(x))
 
 # Open up batch.txt with the overwrite switch
 batch_file = open('batch.csv','w+')
 
+print('Writing to text file...')
 # Write the initial columns headers required by DHCP Powershell
 batch_file.write('ScopeId,IPAddress,Name,ClientId,Description')
-print('Writing to text file...')
 
 # Couldnt figure out an easy way to run multiple variables that increment in a loop. So I decided to run a seperate counter
 # That I manually increase. This counter needs to jump by 2 at the end of each loop, as the list i created earlier has the
@@ -66,3 +66,5 @@ for x in range(len(ip_address)):
     if x != len(ip_address)-1:
         batch_file.write('\n'+ip_scope+','+ip_address[x]+','+computer_list[counter]+','+computer_list[counter+1]+',')
     counter += 2
+
+print('Success!')
